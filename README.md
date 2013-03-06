@@ -1,0 +1,4 @@
+MyMod
+=====
+
+Developing a mod
